@@ -1,0 +1,44 @@
+[
+    {
+        "title": "首页",
+        "desc": "用jQuery 实现首页轮播图,商品列表导航栏 ",
+        "imgName": "index1",
+        "demoAddress": "index1",
+        "codeAddress": "project"
+    },
+    {
+        "title": "登录",
+        "desc": "使用Ajax实现登录信息的验证",
+        "imgName": "login",
+        "demoAddress": "login",
+        "codeAddress": "project"
+    },
+    {
+        "title": "注册",
+        "desc": "使用Ajax实现注册信息的验证,调用云之讯短信接口(获取手机验证码)",
+        "imgName": "register",
+        "demoAddress": "register",
+        "codeAddress": "project"
+    },
+     {
+        "title": "列表页",
+        "desc": "使用Ajax实现列表页搜索(局部刷新),",
+        "imgName": "list",
+        "demoAddress": "list",
+        "codeAddress": "project"
+    },
+     {
+        "title": "购物车",
+        "desc": "使用jquery实现购物车商品的动态展示,同时修改session中的购物信息",
+        "imgName": "car",
+        "demoAddress": "car",
+        "codeAddress": "project"
+    },
+     {
+        "title": "订单",
+        "desc": "实现收货地址的管理,订单信息的选择,购买商品的展示",
+        "imgName": "order",
+        "demoAddress": "order",
+        "codeAddress": "project"
+    }
+]
